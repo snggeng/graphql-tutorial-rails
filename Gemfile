@@ -25,6 +25,10 @@ gem 'graphql'
 gem 'graphiql-rails'
 # bcrypt
 gem 'bcrypt', '~> 3.1.7'
+# search
+gem 'search_object'
+# using graphql
+gem 'search_object_graphql'
 
 
 # Use CoffeeScript for .coffee assets and views
